@@ -110,6 +110,6 @@ if (import.meta.main) {
     );
   }
 
-  console.log(`Invalid IDs sum (1st puzzle): ${invalidIdsSumFirst}`); // 40214376723
-  console.log(`Invalid IDs sum (2nd puzzle): ${invalidIdsSumSecond}`); // 50793864718
+  console.log(`Invalid IDs sum (1st puzzle): ${invalidIdsSumFirst}`);
+  console.log(`Invalid IDs sum (2nd puzzle): ${invalidIdsSumSecond}`);
 }

@@ -99,8 +99,8 @@ function main() {
     countSecond += result.resetCount;
   }
 
-  console.log(`[1st puzzle]: Final count: ${countFirst}`); // 1123
-  console.log(`[2nd puzzle]: Final count: ${countSecond}`); // 6695
+  console.log(`[1st puzzle]: Final count: ${countFirst}`);
+  console.log(`[2nd puzzle]: Final count: ${countSecond}`);
 }
 
 if (import.meta.main) {
